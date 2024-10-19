@@ -58,7 +58,7 @@ Feel free to check out my other repositories: [GitHub Profile](https://github.co
 ---
 
 ## Contact
-- LinkedIn: [Aishwin Jeevothayan](https://www.linkedin.com/in/aishwin-j-7796a1244/)
+- [LinkedIn](https://www.linkedin.com/in/aishwin-j-7796a1244/)
 
 ---
 
