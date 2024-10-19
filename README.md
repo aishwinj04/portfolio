@@ -7,7 +7,7 @@ Toronto Metropolitan University - Second Year
 **Toronto Metropolitan University**  
 _Bachelor of Science in Computer Science_  
 CGPA: 3.71
-Relevant Courses: Data Structures & Algorithmns, Computer Science, Computer Organization
+Relevant Courses: Data Structures & Algorithms, Computer Science, Computer Organization
 
 ---
 
@@ -34,7 +34,7 @@ _Kyndryl (IBM)_
 
 ---
 
-## Leadership Experience
+## Co-Curricular Experience
 **Event Videographer**  
 _Undergraduate Science Society (USSTM)_  
 - Collaborated with video editors to communicate specific editing requests and preferences, resulting in a final product that matched expectations.
