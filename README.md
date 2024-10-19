@@ -58,9 +58,7 @@ Feel free to check out my other repositories: [GitHub Profile](https://github.co
 ---
 
 ## Contact
-You can connect with me at:  
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn](#)
+- LinkedIn: [Aishwin Jeevothayan](https://www.linkedin.com/in/aishwin-j-7796a1244/)
 
 ---
 
