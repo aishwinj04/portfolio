@@ -1,6 +1,4 @@
-# Aishwin's Portfolio
-
-👨‍💻 **Computer Science Student**  
+👨‍💻 **Computer Science Student**    
 Toronto Metropolitan University - Second Year
 
 ---
