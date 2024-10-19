@@ -6,8 +6,8 @@ Toronto Metropolitan University - Second Year
 ## Education
 **Toronto Metropolitan University**  
 _Bachelor of Science in Computer Science_  
-Expected Graduation: 2026  
 CGPA: 3.71
+Relevant Courses: Data Structures & Algorithmns, Computer Science, Computer Organization
 
 ---
 
