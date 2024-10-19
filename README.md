@@ -12,16 +12,16 @@ CGPA: 3.71
 ---
 
 ---
-
 ## Technical Skills
-**Core Languages:** 
-Python, HTML, CSS, JavaScript
-**Familiar Languages:** 
-Swift, Java, C, Lisp
-**Developer Tools:** 
-MySQL, Git/GitHub, VSCode, Vim, phpMyAdmin, Linux command line
-**Software:**
-Excel, Office, Figma
+**Core Languages:**  
+Python, HTML, CSS, JavaScript  
+**Familiar Languages:**  
+Swift, Java, C, Lisp  
+**Developer Tools:**  
+MySQL, Git/GitHub, VSCode, Vim, phpMyAdmin, Linux command line  
+**Software:**  
+Excel, Office, Figma  
+
 
 ## Work Experience
 **Material Handler & Bench Technician**  
