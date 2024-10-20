@@ -2,6 +2,3 @@ title: Aishwin Jeevothayan
 logo: /assets/images/logo.svg
 show_downloads: false
 theme: jekyll-theme-minimal
-sass:
-  style: compressed
-custom_css: /assets/css/custom.css 
