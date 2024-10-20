@@ -47,7 +47,18 @@ _Undergraduate Science Society (USSTM)_
 ## Projects
 Here are some of my coding projects:
 
-1. **[Hangman](https://aishwinj04.github.io/Hangman/)**
+1. **[Login Form Authentication]**  
+   ![Login Form](assets/images/login_form.png)  
+   A simple login form with authentication features, including user registration and login validation.
+   - Language: PHP, MySQL, HTML, CSS, Javascript
+   - [GitHub Repo](https://github.com/aishwinj04/Authentication-Page)  
+
+   ![Login Process](assets/images/login.png) 
+   ![Registration Error Handling](assets/images/signup.png) 
+   ![Success Page](assets/images/page2.png)
+   ![Database](assets/images/database.png)
+
+2. **[Hangman](https://aishwinj04.github.io/Hangman/)**
    ![Hangman](assets/images/hangman.png)
    Hangman Game with user key input based on programming concepts
    - Language: HTML, CSS, Javascript
