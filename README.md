@@ -37,20 +37,24 @@ Here are some of my coding projects:
    - **Language:** PHP, MySQL, HTML, CSS, Javascript  
    - [GitHub Repo](https://github.com/aishwinj04/Authentication-Page)  
 
-   **Login Form Interface:**  
-   ![Login Process](assets/images/login.png)
-
-   **Registration Form Interface:**  
-   ![Registration Error Handling](assets/images/signup.png)  
-   The registration form for new users to create an account. Validates all input before sending to database. Checks if usernames and emails are already in use. Passwords are encrypted using MD5 hashing algorithm.
-
-   **Success Page:**  
-   ![Success Page](assets/images/page2.png)  
-   The page users are met with once successfully logging in. 
-
-   **Database Structure:**  
-   ![Database](assets/images/database.png)  
-   SQL database structure for the users table; each user has their own ID.
+   <div style="display: flex; justify-content: space-around;">
+       <div style="text-align: center;">
+           <strong>Login Form Interface:</strong>  
+           <img src="assets/images/login.png" alt="Login Process" width="200" />
+       </div>
+       <div style="text-align: center;">
+           <strong>Registration Form Interface:</strong>  
+           <img src="assets/images/signup.png" alt="Registration Error Handling" width="200" />
+       </div>
+       <div style="text-align: center;">
+           <strong>Success Page:</strong>  
+           <img src="assets/images/page2.png" alt="Success Page" width="200" />
+       </div>
+       <div style="text-align: center;">
+           <strong>Database Structure:</strong>  
+           <img src="assets/images/database.png" alt="Database" width="200" />
+       </div>
+   </div>
 
 2. ### **[Hangman](https://aishwinj04.github.io/Hangman/)**  
    A classic game of Hangman that features words from programming and computer science principles. Each incorrect letter guessed by the player results in a custom SVG stickman adding a body part.  
