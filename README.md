@@ -48,7 +48,6 @@ _Undergraduate Science Society (USSTM)_
 Here are some of my coding projects:
 
 1. **[Login Form Authentication]**  
-   ![Login Form](assets/images/login_form.png)  
    A simple login form with authentication features, including user registration and login validation.
    - Language: PHP, MySQL, HTML, CSS, Javascript
    - [GitHub Repo](https://github.com/aishwinj04/Authentication-Page)  
