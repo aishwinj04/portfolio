@@ -53,12 +53,22 @@ Here are some of my coding projects:
    - Language: PHP, MySQL, HTML, CSS, Javascript
    - [GitHub Repo](https://github.com/aishwinj04/Authentication-Page)  
 
-   ![Login Process](assets/images/login.png) 
-   ![Registration Error Handling](assets/images/signup.png) 
-   ![Success Page](assets/images/page2.png)
-   ![Database](assets/images/database.png)
+   **Login Form Interface:**
+   ![Login Process](assets/images/login.png)
 
-2. **[Hangman](https://aishwinj04.github.io/Hangman/)**
+   **Registration Form Interface**
+   ![Registration Error Handling](assets/images/signup.png)
+   The registration form for new users to create an account. Validates all input before sending to database. Checks    if usernames and emails are already in use. Passwords are encrypted using MD5 hashing algorithm.
+
+   **Success Page**
+   ![Success Page](assets/images/page2.png)
+   The page users are met with once successfully logging in. 
+
+   **Database Structure**
+   ![Database](assets/images/database.png)
+   SQL database structure for the users table; each user has their own id.
+
+3. **[Hangman](https://aishwinj04.github.io/Hangman/)**
    ![Hangman](assets/images/hangman.png)
    Hangman Game with user key input based on programming concepts
    - Language: HTML, CSS, Javascript
