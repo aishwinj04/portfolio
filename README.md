@@ -14,7 +14,7 @@ Relevant Courses: Data Structures & Algorithms, Computer Science, Computer Organ
 ---
 ## Technical Skills
 **Core Languages:**  
-Python, HTML, CSS, JavaScript  
+Python, HTML, CSS, JavaScript, PHP    
 **Familiar Languages:**  
 Swift, Java, C, Lisp  
 **Developer Tools:**  
