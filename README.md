@@ -68,8 +68,9 @@ Here are some of my coding projects:
    SQL database structure for the users table; each user has their own id.
 
 3. **[Hangman](https://aishwinj04.github.io/Hangman/)**
+   A classic game of Hangman that features words from programming and computer science principles. Each incorrect
+   letter guessed by the player results in a custom SVG stickman adding a body part
    ![Hangman](assets/images/hangman.png)
-   Hangman Game with user key input based on programming concepts
    - Language: HTML, CSS, Javascript
    - [GitHub Repo](https://github.com/aishwinj04/Hangman)
 
